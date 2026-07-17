@@ -63,4 +63,4 @@ Con más de <b>23 años de experiencia</b> (desde 2001)
 </div>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=fabricio-guzzo&color=0ea5e9&style=for-the-badge&label=👀+Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=fabricio-guzzo&color=0ea5e9&style=for-the-badge&label=👀+Profile+Views" width="1" height="1" alt="">
