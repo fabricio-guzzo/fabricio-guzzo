@@ -61,4 +61,4 @@ Con más de <b>23 años de experiencia</b> (desde 2001)
 - [🐦 @fabricioguzzo](https://x.com/fabricioguzzo)
 
 </div>
-</div>
+</div>![Profile Views](https://komarev.com/ghpvc/?username=fabricio-guzzo&color=0ea5e9&style=for-the-badge&label=👀+Profile+Views)
